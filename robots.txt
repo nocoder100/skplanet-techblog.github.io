@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://techtopic.skplanet.com/sitemap.xml
+Host: https://techtopic.skplanet.com
